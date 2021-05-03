@@ -5,6 +5,6 @@
     <OutputDirectory>.</OutputDirectory>
         <TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
             <Packages>
-                <Package>PackageDefinitions\enbl-bringeland.xml</Package>
+                <Package>PackageDefinitions\daghb-enbl.xml</Package>
                 </Packages>
             </Project>
